@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "id": "Fact_Sales",
+      "x": 450,
+      "y": 220,
+      "width": 280,
+      "height": 420
+    },
+    {
+      "id": "Dim_Product",
+      "x": 60,
+      "y": 80,
+      "width": 250,
+      "height": 300
+    },
+    {
+      "id": "Dim_Location",
+      "x": 60,
+      "y": 430,
+      "width": 250,
+      "height": 420
+    },
+    {
+      "id": "Dim_Customer",
+      "x": 800,
+      "y": 80,
+      "width": 250,
+      "height": 180
+    },
+    {
+      "id": "Dim_Salesperson",
+      "x": 800,
+      "y": 300,
+      "width": 250,
+      "height": 180
+    },
+    {
+      "id": "Dim_Date",
+      "x": 800,
+      "y": 520,
+      "width": 250,
+      "height": 300
+    },
+    {
+      "id": "Fact_Budget_Monthly",
+      "x": 400,
+      "y": 700,
+      "width": 300,
+      "height": 300
+    },
+    {
+      "id": "Dim_MonthAllocation",
+      "x": 750,
+      "y": 850,
+      "width": 260,
+      "height": 180
+    },
+    {
+      "id": "Date_Ranges",
+      "x": 60,
+      "y": 900,
+      "width": 250,
+      "height": 160
+    }
+  ]
+}
